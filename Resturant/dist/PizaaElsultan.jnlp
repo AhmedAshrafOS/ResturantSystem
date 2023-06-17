@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="PizaaElsultan.jnlp">
+  <information>
+    <title>PizaaElsultan</title>
+    <vendor>Ahmed</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="PizaaElsultan.jar" size="146317" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="pizaaelsultan.PizaaElsultan"  name="PizaaElsultan" />
+  <update check="always"/>
+</jnlp>

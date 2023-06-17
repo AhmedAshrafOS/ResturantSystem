@@ -1,0 +1,30 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+    button {
+
+}
+
+
+
+.button:hover {
+
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-fontsize: 22;
+    -fx-text-fill: #fff;
+}
+
+.button:pressed{
+    -fx-background-color: white;
+    -fx-background-radius: 5;
+    -fx-fontsize: 22;
+    -fx-text-fill: #fff;
+    
+}
+
+
+
+
+

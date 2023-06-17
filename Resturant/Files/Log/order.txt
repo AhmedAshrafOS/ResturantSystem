@@ -1,0 +1,7 @@
+1 The MixFrakh and its id 3 ordered for this Customer 012055504666 total price is 75.0
+2 The MixFra5 and its id 5 ordered for Silver Customer 012055504666 total price is 81.6
+5 The MixFra5 and its id 5 ordered for Silver Customer 012055504666 total price is 81.6
+5 The MixFra5 and its id 5 ordered for Silver Customer 012055504666 total price is 81.6
+6 The KOFTA and its id 1 ordered for Silver Customer 012055504666 total price is 29.58
+7 The kekapizza and its id 2 ordered for Silver Customer 012055504666 total price is 91.8
+9 The fra5 and its id 7 ordered  for Silver Customer 01015037930 total price is 57.12
